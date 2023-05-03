@@ -19,3 +19,4 @@ jobs:
           base: header, activity, repositories, metadata
           plugin_isocalendar: yes
           plugin_languages: yes
+          clean_workflows: all
