@@ -3,3 +3,5 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,linux,unreal,vscode,stackoverflow)](https://skillicons.dev) 
